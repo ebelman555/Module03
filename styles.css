@@ -62,14 +62,14 @@ p {
 }
 
 section {
-    border: 3px solid rgb(0, 128, 0); 
+    border: 3px solid rgb(26, 157, 218); 
     background-color: #fdffef; 
     padding: 15px; 
     margin: 20px auto; 
     max-width: 100%; 
     font-size: 13pt; 
     line-height: 1.2; 
-    border-left: 40px solid rgb(60, 128, 0);
+    border-left: 40px solid rgb(26, 157, 218);
 
 }
 
